@@ -1,0 +1,14 @@
+HOW TO CRAWL A WEBSITE:
+  1. Understanding the domain structure
+  2. Configuring the URL sources
+  3. Running a test crawl
+  4. Adding crawl restrictions
+  5. Testing your changes
+  6. Running your crawl
+APPROACH:
+Step 1: Inspect the website(if using Chrome you can right-click and select inspect)
+Step 2: Access URL of the website using code and download all the HTML contents on the page
+Step 3: Format the downloaded content into a readable format
+Step 4: Extract out useful information and save it into a structured format
+Step 5: For information displayed on multiple pages of the website, you may need to repeat steps 2–4 to have the complete information.
+ 
